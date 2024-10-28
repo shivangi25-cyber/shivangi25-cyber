@@ -2,7 +2,7 @@
 - 👀 I’m interested in building solutions using codes
 - 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on realtime projects which puts an impact on society.
-- 📫 How to reach me shivangisri347@gmail.com
+- 📫 How to reach me shivangisrivastava347@gmail.com
 - 😄 Pronouns: her
 - ⚡ Fun fact: once upon a time a shuttler
 
